@@ -1,0 +1,9 @@
+{
+    "val": [
+        {
+            "root": "./FGC1M_Images",
+            "anno": "./coco_data.json",
+            "dataset_mode": "coco"
+        }
+    ]
+}

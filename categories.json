@@ -1,0 +1,292 @@
+[
+    {
+        "name": "poker chip",
+        "abbreviation": "POKE",
+        "max_count": 300
+    },
+    {
+        "name": "mahjong tile",
+        "abbreviation": "MAHJ",
+        "max_count": 144
+    },
+    {
+        "name": "dice",
+        "abbreviation": "DICE",
+        "max_count": 100
+    },
+    {
+        "name": "domino",
+        "abbreviation": "DOMI",
+        "max_count": 28
+    },
+    {
+        "name": "playing card",
+        "abbreviation": "CARD",
+        "max_count": 52
+    },
+    {
+        "name": "puzzle piece",
+        "abbreviation": "PUZZ",
+        "max_count": 1000
+    },
+    {
+        "name": "lego brick",
+        "abbreviation": "LEGO",
+        "max_count": -1
+    },
+    {
+        "name": "chess pieces",
+        "abbreviation": "CHES",
+        "max_count": 32
+    },
+    {
+        "name": "checkers piece",
+        "abbreviation": "CHEK",
+        "max_count": 24
+    },
+    {
+        "name": "scrabble tile",
+        "abbreviation": "SCRA",
+        "max_count": 10
+    },
+    {
+        "name": "paper clip",
+        "abbreviation": "PPCL",
+        "max_count": 240
+    },
+    {
+        "name": "push pin",
+        "abbreviation": "PUPN",
+        "max_count": 100
+    },
+    {
+        "name": "thumbtack",
+        "abbreviation": "THUM",
+        "max_count": 150
+    },
+    {
+        "name": "pens",
+        "abbreviation": "PENS",
+        "max_count": 100
+    },
+    {
+        "name": "pencil",
+        "abbreviation": "PENC",
+        "max_count": 100
+    },
+    {
+        "name": "star sticker",
+        "abbreviation": "STAR",
+        "max_count": 210
+    },
+    {
+        "name": "book",
+        "abbreviation": "BOOK",
+        "max_count": -1
+    },
+    {
+        "name": "sticky note",
+        "abbreviation": "STIC",
+        "max_count": 40
+    },
+    {
+        "name": "plate",
+        "abbreviation": "PLAT",
+        "max_count": -1
+    },
+    {
+        "name": "bowl",
+        "abbreviation": "BOWL",
+        "max_count": -1
+    },
+    {
+        "name": "bolt",
+        "abbreviation": "BOLT",
+        "max_count": 16
+    },
+    {
+        "name": "nut",
+        "abbreviation": "NUTS",
+        "max_count": 16
+    },
+    {
+        "name": "washer",
+        "abbreviation": "WASH",
+        "max_count": 16
+    },
+    {
+        "name": "rice grain",
+        "abbreviation": "RICE",
+        "max_count": 1000
+    },
+    {
+        "name": "coffee bean",
+        "abbreviation": "COFF",
+        "max_count": 1500
+    },
+    {
+        "name": "raisin",
+        "abbreviation": "RAIS",
+        "max_count": 20
+    },
+    {
+        "name": "m&m",
+        "abbreviation": "MAMS",
+        "max_count": 200
+    },
+    {
+        "name": "pea",
+        "abbreviation": "PEAS",
+        "max_count": 200
+    },
+    {
+        "name": "bean",
+        "abbreviation": "BEAN",
+        "max_count": 50
+    },
+    {
+        "name": "pasta",
+        "abbreviation": "PAST",
+        "max_count": 1000
+    },
+    {
+        "name": "egg",
+        "abbreviation": "EGGS",
+        "max_count": 36
+    },
+    {
+        "name": "chip",
+        "abbreviation": "CHIP",
+        "max_count": 200
+    },
+    {
+        "name": "lemon",
+        "abbreviation": "LEMO",
+        "max_count": 80
+    },
+    {
+        "name": "pill",
+        "abbreviation": "PILL",
+        "max_count": 20
+    },
+    {
+        "name": "cup",
+        "abbreviation": "CUPS",
+        "max_count": 6
+    },
+    {
+        "name": "toothpick",
+        "abbreviation": "TOOT",
+        "max_count": 35
+    },
+    {
+        "name": "cotton swab",
+        "abbreviation": "COTS",
+        "max_count": 24
+    },
+    {
+        "name": "sock",
+        "abbreviation": "SOCK",
+        "max_count": 3
+    },
+    {
+        "name": "shoe",
+        "abbreviation": "SHOE",
+        "max_count": 4
+    },
+    {
+        "name": "money",
+        "abbreviation": "MONE",
+        "max_count": 10
+    },
+    {
+        "name": "coin",
+        "abbreviation": "COIN",
+        "max_count": 10
+    },
+    {
+        "name": "marble",
+        "abbreviation": "MARB",
+        "max_count": 3
+    },
+    {
+        "name": "bottle",
+        "abbreviation": "BOTT",
+        "max_count": 3
+    },
+    {
+        "name": "can",
+        "abbreviation": "CANS",
+        "max_count": 3
+    },
+    {
+        "name": "bottle cap",
+        "abbreviation": "CAPS",
+        "max_count": 3
+    },
+    {
+        "name": "onion ring",
+        "abbreviation": "ONIR",
+        "max_count": 10
+    },
+    {
+        "name": "potato",
+        "abbreviation": "POTA",
+        "max_count": 4
+    },
+    {
+        "name": "cutlery",
+        "abbreviation": "CUTL",
+        "max_count": 3
+    },
+    {
+        "name": "straw",
+        "abbreviation": "STRA",
+        "max_count": 10
+    },
+    {
+        "name": "chopstick",
+        "abbreviation": "CHOP",
+        "max_count": 4
+    },
+    {
+        "name": "nail",
+        "abbreviation": "NAIL",
+        "max_count": 20
+    },
+    {
+        "name": "shirt",
+        "abbreviation": "SHIR",
+        "max_count": 3
+    },
+    {
+        "name": "pistachio",
+        "abbreviation": "PISA",
+        "max_count": 10
+    },
+    {
+        "name": "stamp",
+        "abbreviation": "STAM",
+        "max_count": 10
+    },
+    {
+        "name": "pebble",
+        "abbreviation": "PEBB",
+        "max_count": 100
+    },
+    {
+        "name": "button",
+        "abbreviation": "BUTT",
+        "max_count": 10
+    },
+    {
+        "name": "red poker chip",
+        "abbreviation": "POK1",
+        "max_count": 100
+    },
+    {
+        "name": "white poker chip",
+        "abbreviation": "POK2",
+        "max_count": 100
+    }
+]
