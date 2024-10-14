@@ -106,6 +106,7 @@ def extract_frames(video_path, start_image_index):
 
     cap.release()
 
+val_label_list = []
 video_paths = []
 for root, _, files in os.walk(video_dir):
     for file in files:
@@ -123,6 +124,7 @@ for video_path in video_paths:
     cat1, cat2 = video_path.split("/")[1].split("-")
     cat_list = [cat["name"] for cat in coco_data["categories"]]
     if cat_dict[cat1] not in cat_list:
+        val_label_list.append(cat_dict[cat1])
         coco_data["categories"].append({
             "id": cat_id,
             "name": cat_dict[cat1]
@@ -130,6 +132,7 @@ for video_path in video_paths:
         cat_id += 1
     
     if cat_dict[cat2] not in cat_list:
+        val_label_list.append(cat_dict[cat2])
         coco_data["categories"].append({
             "id": cat_id,
             "name": cat_dict[cat2]
@@ -138,6 +141,8 @@ for video_path in video_paths:
 
     extract_frames(video_path, current_image_index)
     current_image_index += 100
+
+print("Val label list:", val_label_list)
 
 
 # Save metadata to a JSON file

@@ -288,5 +288,15 @@
         "name": "white poker chip",
         "abbreviation": "POK2",
         "max_count": 100
+    },
+    {
+        "name": "spirals pasta",
+        "abbreviation": "PAS1",
+        "max_count": 350
+    },
+    {
+        "name": "penne pasta",
+        "abbreviation": "PAS2",
+        "max_count": 200
     }
 ]
